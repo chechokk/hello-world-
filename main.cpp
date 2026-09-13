@@ -4,6 +4,6 @@ using namespace std;
 int main() {
     cout << "Hello from feature" << endl;
     cout<<"\n";
-    cout<<"My name is Daniil"<<endl;
+    cout<<"My name is not Daniil"<<endl;
     return 0;
 }
