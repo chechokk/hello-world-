@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     cout << "Hello from feature" << endl;
-cout<<"\n";
+    cout<<"\n";
+    cout<<"My name is Daniil"<<endl;
     return 0;
 }
